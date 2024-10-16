@@ -8,7 +8,7 @@
 
     section#login{
         width: 78vw;
-        height: 50vh;
+        height: 40vh;
     }
 
     section#login > div#imagem{
@@ -23,12 +23,16 @@
         height: 100%;
     }
 
+    form > div.campo{
+        margin: 12px 0px;
+    }
+
     div#formulario > h1{
         font-size: 1.4em;
     }
 
     div#formulario > p{
-        font-size: 1.0em;
+        font-size: 0.9em;
     }
 }
 
@@ -40,7 +44,7 @@
 
     section#login{
         width: 1000px;
-        height: 55vh;
+        height: 40vh;
     }
 
     section#login > div#imagem{
@@ -55,11 +59,15 @@
         height: 100%;
     }
 
+    form > div.campo{
+        margin: 12px 0px;
+    }
+
     div#formulario > h1{
         font-size: 2.1em;
     }
 
     div#formulario > p{
-        font-size: 1.1em;
+        font-size: 1em;
     }
 }
